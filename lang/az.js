@@ -3,6 +3,6 @@
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
-CKEDITOR.plugins.setLang( 'button', 'af', {
-	selectedLabel: '%1 uitgekies'
+CKEDITOR.plugins.setLang( 'button', 'az', {
+	selectedLabel: '%1 (seçilib)'
 } );
